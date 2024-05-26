@@ -1,2 +1,2 @@
 # MineSyntax
-minecraft erminal yaya
+minecraft terminal yaya
